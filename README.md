@@ -6,4 +6,4 @@ Operating Systems 2022-2
 [GitHub](https://github.com/nicolasananda/os222)
 
 <hr>
-Version: {{ site.version }}
+Version: {{site.version}}
