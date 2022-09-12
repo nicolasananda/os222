@@ -7,3 +7,8 @@ ZCZC W00 100 L02 ZOOM meeting w/ lecturer
 ZCZC W00 60 L04 Creating GitHub Pages
 ZCZC W00 120 L10 Assignments Week 0
 ZCZC W00 3 L05 First Quiz
+ZCZC W01 15 L01 Scele/Discord related
+ZCZC W01 200 L02 ZOOM meeting w/ lecturer
+ZCZC W01 3 L05 QUIZ Week 1
+ZCZC W01 45 L03 GitHub related
+ZCZC W01 180 L09 Weekly Assignments
