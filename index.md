@@ -12,8 +12,6 @@
 <hr>
 {{ site.title }}.
 <br><br>
-<br>
-<hr>
 &copy; {{ site.copyright }} --- {{ site.author }}
 <hr>
 <br>
