@@ -12,3 +12,15 @@ ZCZC W01 200 L02 ZOOM meeting w/ lecturer
 ZCZC W01 3 L05 QUIZ Week 1
 ZCZC W01 45 L03 GitHub related
 ZCZC W01 180 L09 Weekly Assignments
+ZCZC W02 100 L02 Online lecture via ZOOM
+ZCZC W02 100 L02 Online lecture via ZOOM
+ZCZC W02 80 L05 Reading Assignments
+ZCZC W02 3  L05 Quiz week 2
+ZCZC W02 20 L12 Generate GnuPG on Putty for assignment 2
+ZCZC W02 60 L12 Downloading Scripts for weekly assignment 2
+ZCZC W02 25 L12 Updating links for weekly assignment 2
+ZCZC W02 10 L01 Submitting GPG Key on Pop Quiz forum on scele
+ZCAC W02 30 L12 Running scripts for weekly assignment 2
+ZCZC W02 20 L41 Updating mylog.txt
+ZCZC W02 15 L03 Created myrank.txt
+ZCZC W02 10 L40 updated myupdate.txt
