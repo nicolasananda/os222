@@ -19,3 +19,11 @@ Learn how to copy and paste in Putty since the commands are different compared t
 
 4. [More about GPG](https://www.gnupg.org/)
 The official website of GNUPG in where you can learn more about GPG and it's usage
+
+##WEEK03
+
+5. [OS Slides Directory](https://www.os-book.com/OS10/slide-dir/)
+Slides of OS book
+
+6. [Enlarge the size of virtual disk](https://www.howtogeek.com/124622/how-to-enlarge-a-virtual-machines-disk-in-virtualbox-or-vmware/#:~:text=Update%3A%20Use%20the%20Virtual%20Media%20Manager%20in%20VirtualBox&text=To%20access%20it%2C%20click%20File,%E2%80%9D%20when%20you're%20done.)
+Enlarging the storage size of the virtual disk

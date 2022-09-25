@@ -24,3 +24,12 @@ ZCAC W02 30 L12 Running scripts for weekly assignment 2
 ZCZC W02 20 L41 Updating mylog.txt
 ZCZC W02 15 L03 Created myrank.txt
 ZCZC W02 10 L40 updated myupdate.txt
+ZCZC W03 10 L01 checking SCELE/Discord announcement
+ZCZC W03 100 L02 Online lecture via ZOOM
+ZCZC W03 100 L00 Offline meeting with lecturer
+ZCZC W03 3  L05 Quiz week 3
+ZCZC W03 70 L13 Readings and Demos for Assignment 3
+ZCZC W03 45 L31 Adding an Extra Virtual Disk for Assignment 3
+ZCZC W03 60 L13 Finishing for Assignment 3
+ZCZC W03 20 L13 Update links for Assignment 3
+ZCZC W03 20  L03 Updating mylog.txt, rerunning myscript.sh, add, commit, push
