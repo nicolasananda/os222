@@ -33,3 +33,11 @@ ZCZC W03 45 L31 Adding an Extra Virtual Disk for Assignment 3
 ZCZC W03 60 L13 Finishing for Assignment 3
 ZCZC W03 20 L13 Update links for Assignment 3
 ZCZC W03 20  L03 Updating mylog.txt, rerunning myscript.sh, add, commit, push
+ZCZC W04 100 L02 Online Lecture via ZOOM
+ZCZC W04 100 L00 Offline lecture
+ZCZC W04 80 L14 Pop Quiz
+ZCZC W04 50 L05 Studying for the quiz and doing the quiz
+ZCZC W04 75 L14 Reading Assignment
+ZCZC W04 120 L14 Weekly Assignment 04
+ZCZC W04 90 L14 Updating links.md, myrank, myupdate and mylog
+
