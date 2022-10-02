@@ -27,3 +27,11 @@ Slides of OS book
 
 6. [Enlarge the size of virtual disk](https://www.howtogeek.com/124622/how-to-enlarge-a-virtual-machines-disk-in-virtualbox-or-vmware/#:~:text=Update%3A%20Use%20the%20Virtual%20Media%20Manager%20in%20VirtualBox&text=To%20access%20it%2C%20click%20File,%E2%80%9D%20when%20you're%20done.)
 Enlarging the storage size of the virtual disk
+
+##WEEK04
+
+7. [TLPI Book by Michael Kerrisk](https://sciencesoftcode.files.wordpress.com/2018/12/the-linux-programming-interface-michael-kerrisk-1.pdf)
+More about the Linux Programming Interface
+
+8. [Tar Folder in Linux](https://linuxhint.com/tar-folder-linux/)<br>
+Helped me to make a script to tar a Folder and Encrypt it.
