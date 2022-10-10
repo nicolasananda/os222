@@ -40,4 +40,13 @@ ZCZC W04 50 L05 Studying for the quiz and doing the quiz
 ZCZC W04 75 L14 Reading Assignment
 ZCZC W04 120 L14 Weekly Assignment 04
 ZCZC W04 90 L14 Updating links.md, myrank, myupdate and mylog
+ZCZC W05 100 L00 Offline Meeting with lecturer
+ZCZC W05 60 L12 Reading Assignment
+ZCZC W05 100 L02 Online meeting via ZOOM
+ZCZC W05 3 L05 Quiz Week 5
+ZCZC W05 100 L12 Assignment WEEK 05
+ZCZC W05 15 L15 Update links on links.md for Assignment 5
+ZCZC W05 5 L40 TXT/myupdate.txt update
+ZCZC W05 15 L43 TXT/myrank.txt update
+ZCZC W05 L41 Updating mylog.txt
 

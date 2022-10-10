@@ -35,3 +35,11 @@ More about the Linux Programming Interface
 
 8. [Tar Folder in Linux](https://linuxhint.com/tar-folder-linux/)<br>
 Helped me to make a script to tar a Folder and Encrypt it.
+
+##WEEK05
+
+9. [Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)
+More about virtual memory
+
+10. [Thrashing](https://en.wikipedia.org/wiki/Thrashing_(computer_science))
+More about thrashing
