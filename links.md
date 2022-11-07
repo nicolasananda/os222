@@ -43,3 +43,11 @@ More about virtual memory
 
 10. [Thrashing](https://en.wikipedia.org/wiki/Thrashing_(computer_science))
 More about thrashing
+
+##WEEK06
+
+11. [Updating Kernel]https://linuxhint.com/upgrade-linux-kernel-version-debian-10/
+How to update your kernel
+
+12. [Copy Files]https://osp4diss.vlsm.org/osp-002-scp.html
+How to copy a file from local to os1

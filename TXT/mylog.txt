@@ -48,5 +48,18 @@ ZCZC W05 100 L12 Assignment WEEK 05
 ZCZC W05 15 L15 Update links on links.md for Assignment 5
 ZCZC W05 5 L40 TXT/myupdate.txt update
 ZCZC W05 15 L43 TXT/myrank.txt update
-ZCZC W05 L41 Updating mylog.txt
-
+ZCZC W05 15 L41 Updating mylog.txt
+ZCZC W06 100 L05 POP Quiz
+ZCZC W06 100 L02 Online Class via ZOOM
+ZCZC W06 100 L99 Offline class
+ZCZC W06 20 L31 Updating my Debian Guest Kernel
+ZCZC W06 60 L16 Reading Assignment
+ZCZC W06 10 L05 QUIZ02 WEEK 6
+ZCZC W06 5 L05 QUIZ01 WEEK 6
+ZCZC W06 100 L16 Assignment 6
+ZCZC W06 10 L16 Update links on links.md for Assignment 6
+ZCZC W06 5 L40 TXT/myupdate.txt update
+ZCZC W06 15 L43 TXT/myrank.txt update
+ZCZC W06 15 L16 Finishing for Assignment 6
+ZCZC W06 15 L41 TXT/mylog.txt update
+ZCZC W06 5  L03 git add, commit, push
