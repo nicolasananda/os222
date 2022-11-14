@@ -51,3 +51,8 @@ How to update your kernel
 
 12. [Copy Files](https://osp4diss.vlsm.org/osp-002-scp.html)
 How to copy a file from local to os1
+
+##WEEK 07
+
+13. [Synchronization](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)
+Learn about Process Synchronization for OS
