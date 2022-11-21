@@ -56,3 +56,11 @@ How to copy a file from local to os1
 
 13. [Synchronization](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)
 Learn about Process Synchronization for OS
+
+##WEEK 08
+
+14. [Kernotex LFS](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)
+A playlist for making linux from scratch
+
+15. [LFS Book](https://www.linuxfromscratch.org/lfs/view/11.2/)
+Book for learning to make linux from scratch
