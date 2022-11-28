@@ -75,3 +75,10 @@ ZCZC W08 200 L17 Weekly Assignment 8
 ZCZC W08 10 L05 Quiz 1 WEEK 8
 ZCZC W08 60 L05 Preparing for QUIZ 2 Week 8 and doing it
 ZCZC W08 100 L05 Pop Quiz WEEK 8
+ZCZC W09 100 L02 Online Class via ZOOM
+ZCZC W09 100 L99 Offline lecture
+ZCZC W09 200 L17 Weekly Assignment 8
+ZCZC W09 10 L05 Quiz 1 WEEK 8
+ZCZC W09 60 L05 Preparing for QUIZ 2 Week 8 and doing it
+ZCZC W09 100 L05 Pop Quiz WEEK 8
+

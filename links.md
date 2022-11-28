@@ -64,3 +64,11 @@ A playlist for making linux from scratch
 
 15. [LFS Book](https://www.linuxfromscratch.org/lfs/view/11.2/)
 Book for learning to make linux from scratch
+
+##WEEK 09
+
+16. [Binutlis GCC ERROR](https://www.reddit.com/r/osdev/comments/nrg4e4/failed_to_make_binutils_for_gcc_cross_compiler/)
+Website that help me regarding GCC cross compiler
+
+17. [LFS Book Chapter 6-7](https://www.linuxfromscratch.org/lfs/view/11.2/chapter07/chapter07.html)
+LFS BOOK chapter 7
